@@ -1,1 +1,5 @@
 # My-Virtual-Bookshelf
+
+The project aimed to redesign a widely-used book management program, a tool I often use for book reviewing references. As a frequent user, I was driven to further develop the program into an application that can be installed on a desktop. Upon conducting preliminary research, I found several areas for improvement from a UX design perspective. While the program excels in providing ratings, it falls short in management and personalisation features. 
+
+This application was designed to effectively keep track of books owned by the client, and its target audience is female youth. It is a simple book cataloguing system that allows the user to search for and add books from their personal collection to a digital bookshelf. Display settings let the user customise the display of books on their shelves as well as the appearance of the software. The GUI incorporates the aesthetics and colour palette agreed upon by the client in an interview. I used Java to write the program as it runs on both Windows and MacOS, which helps with both development and user compatibility. 
